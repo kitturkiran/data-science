@@ -1,4 +1,0 @@
-Streamlit
-Request
-Pandas 
-numpy
